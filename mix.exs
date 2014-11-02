@@ -6,7 +6,7 @@ defmodule PipeWhileOk.Mixfile do
   def project do
     [
       app:         :pipe_while_ok,
-      version:     "0.0.1",
+      version:     "0.0.2",
       elixir:      ">= 1.0.0",
       deps:        [],
       description: @description,
